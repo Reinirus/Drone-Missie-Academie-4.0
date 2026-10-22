@@ -1,0 +1,1 @@
+Aanvullende missiebeelden in versie 3.5 zijn gebaseerd op door de gebruiker geüploade foto's van molen, brug, straten, bos, kerken, pleinen en dronebeelden. Watermerkbeelden zijn niet als definitieve assets opgenomen.
